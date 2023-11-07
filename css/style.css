@@ -34,3 +34,20 @@
       margin-bottom: 20px; /* Add spacing between work items */
     }
 
+
+
+    /* ART CUSTOMISATION */
+    .gallery-item {
+      transition: transform 0.2s;
+      overflow: hidden;
+    }
+
+    .gallery-item img {
+      border-radius: 6px;
+    }
+
+    .gallery-item:hover {
+      opacity: 0.8; 
+      transform: scale(1.05); 
+    }
+
