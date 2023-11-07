@@ -24,3 +24,13 @@
     .lead {
       font-size: 20px; /* Change font size for lead paragraph */
     }
+
+
+
+
+    /* WORK CUSTOMISATION */
+    .work-item {
+      text-align: center; /* Center-align the content within each work item */
+      margin-bottom: 20px; /* Add spacing between work items */
+    }
+
