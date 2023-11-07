@@ -1,4 +1,4 @@
-    /* Custom CSS for the navbar */
+    /* NAVBAR CUSTOMISATION */
     .navbar {
       background-color: rgb(232, 171, 238); 
     }
@@ -8,10 +8,19 @@
     }
 
 
-
+    /* JUMBOTRON CUSTOMISATION */
     .jumbotron {
-      background-image: url('/images/EA02.jpg.jpg');
+      background-image: url('/images/EA03.jpg.png');
+      background-size: cover; 
+      color: #000000; 
+      opacity: calc(0.8);
+    }
 
-      background-size: cover; /* Ensures the image covers the entire Jumbotron */
-      color: #fff; /* Set the text color to contrast with the background */
+
+    /* ABOUT ME CUSTOMISATION */
+    .display-4 {
+      color: #3498db; /* Change title color */
+    }
+    .lead {
+      font-size: 20px; /* Change font size for lead paragraph */
     }
