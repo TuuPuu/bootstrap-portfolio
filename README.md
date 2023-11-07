@@ -17,7 +17,7 @@ From a developer perspective, I aimed to create clear and concise code that coul
 
 ## INSTALLATION
 
-Application has been deployed successfully. Please access site at:
+Application has been deployed successfully. Please access site at: https://tuupuu.github.io/elora-ainoa-bootstrap-portfolio/
 
 
 
