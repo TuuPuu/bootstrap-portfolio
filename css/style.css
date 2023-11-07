@@ -6,3 +6,12 @@
     .navbar a {
       color: #fff; 
     }
+
+
+
+    .jumbotron {
+      background-image: url('/images/EA02.jpg.jpg');
+
+      background-size: cover; /* Ensures the image covers the entire Jumbotron */
+      color: #fff; /* Set the text color to contrast with the background */
+    }
