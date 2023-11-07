@@ -1,28 +1,51 @@
+    
+    * {
+      font-family: quicksand, Arial, Helvetica, sans-serif;
+
+    }
+    
+    
     /* NAVBAR CUSTOMISATION */
-    .navbar {
-      background-color: rgb(232, 171, 238); 
+    
+    .navbar-toggler{
+      background-color: #f9c3d3;
     }
-  
-    .navbar a {
-      color: #fff; 
-    }
+
+
 
 
     /* JUMBOTRON CUSTOMISATION */
     .jumbotron {
-      background-image: url('/images/EA03.jpg.png');
+      background-image: url('/images/EA06.jpg.PNG');
       background-size: cover; 
-      color: #000000; 
+      color: #6c6869; 
       opacity: calc(0.8);
     }
+
+    .small-lead{
+      font-size: 14px;
+      color: #fffdfd;
+    }
+
+    .custom-button {
+      background-color: #da1d5f; 
+      color: #fff;
+      border: none;
+    }
+    .custom-button:hover {
+      background-color: #da6284; 
+    }
+
+
 
 
     /* ABOUT ME CUSTOMISATION */
     .display-4 {
-      color: #3498db; /* Change title color */
+      color: #da1d5f; 
     }
     .lead {
-      font-size: 20px; /* Change font size for lead paragraph */
+      font-size: 14px;
+      color: #6c6869;
     }
 
 
@@ -30,8 +53,12 @@
 
     /* WORK CUSTOMISATION */
     .work-item {
-      text-align: center; /* Center-align the content within each work item */
-      margin-bottom: 20px; /* Add spacing between work items */
+      text-align: center; 
+      margin-bottom: 20px; 
+    }
+
+    .project-title{
+      color: #da6284;
     }
 
 
@@ -54,9 +81,9 @@
 
 
     /* CONTACT CUSTOMISATION */
-  footer {
-    background-color: #f8f9fa; /* Set a background color for the footer */
-    padding: 50px; /* Add some padding to the footer */
+    footer {
+    background-color: #f8f9fa; 
+    padding: 50px;
     text-align: center; 
   }
 
