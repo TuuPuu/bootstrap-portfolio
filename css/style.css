@@ -1,0 +1,8 @@
+    /* Custom CSS for the navbar */
+    .navbar {
+      background-color: rgb(232, 171, 238); 
+    }
+  
+    .navbar a {
+      color: #fff; 
+    }
